@@ -237,5 +237,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <p align="center">
   <a href="https://compactif.ai">Website</a> •
   <a href="https://docs.compactif.ai">Documentation</a> •
-  <a href="https://twitter.com/compactifai">Twitter</a>
 </p>
