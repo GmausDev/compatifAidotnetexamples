@@ -15,7 +15,8 @@ bld/
 [Oo]bj/
 [Ll]og/
 [Ll]ogs/
-
+# BenchmarkDotNet results
+**/BenchmarkDotNet.Artifacts/
 # Visual Studio files
 .vs/
 *.user
